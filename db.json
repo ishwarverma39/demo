@@ -1,9 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "events": [
+    {
+      "event_system_name": "quechuarain-1",
+      "location": "Bengaluru",
+      "uuid": "643d4e86-aaf2-42fd-8b87-1befe7228f9c"
+    },
+    {
+      "event_system_name": "devevent",
+      "location": "New Delhi",
+      "uuid": "6b5c9987-4db8-4894-8dfa-fe3094965161"
+    },
+    {
+      "event_system_name": "regression",
+      "location": "New Delhi",
+      "uuid": "eaa1b109-8ac4-47d9-9cad-62a55226db00"
+    },
+    {
+      "event_system_name": "tradeshow-1",
+      "location": "Palm Springs, CA",
+      "uuid": "1150dec9-8052-4c5a-bfbd-2d6e7a0376b7"
+    }
+  ]
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
